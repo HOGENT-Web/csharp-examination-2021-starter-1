@@ -1,5 +1,5 @@
 # IT-lab (English version below)
-Voor het IT-lab, houden we materialen bij die ontleent kunnen worden, het is aan jou om deze functionaliteiten verder te vervolledigen.
+Voor het IT-lab, houden we materialen bij die ontleend kunnen worden, het is aan jou om deze functionaliteiten verder te vervolledigen.
 
 ## Domein
 Het domein is relatief eenvoudig, er zijn slechts 2 klassen die we bijhouden in de databank, namelijk `Material` en `Event`, je mag tijdens het examen geen visibiliteit van de properties aanpassen. Telkens er een ontlening is, houden we een historiek bij van welke student op welke datum dit materiaal ontleende of terugbracht. De student is op zich geen entiteit maar een gewone string.
